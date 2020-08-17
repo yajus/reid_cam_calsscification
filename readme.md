@@ -15,8 +15,13 @@ market1501
 ./kmeans.ipynb
 ### Requirement
 Python 3.7  
-numpy. 
-pytorch. 
-scipy. 
-yaml. 
-panda. 
+numpy
+
+pytorch
+
+scipy
+
+yaml
+
+panda
+
