@@ -14,9 +14,9 @@ market1501
 聚类代码：
 ./kmeans.ipynb
 ### Requirement
-Python 3.7
-numpy
-pytorch
-scipy
-yaml
-panda
+Python 3.7  
+numpy. 
+pytorch. 
+scipy. 
+yaml. 
+panda. 
