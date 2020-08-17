@@ -1,0 +1,16 @@
+PCB: false
+batchsize: 32
+color_jitter: false
+data_dir: "/Users/zhengxiaopeng/Desktop/LSPRC\u6BD4\u8D5B/camlabel/datacamgather"
+droprate: 0.5
+erasing_p: 0
+fp16: false
+gpu_ids: '-1'
+lr: 0.05
+name: ft_ResNet50
+nclasses: 33
+stride: 2
+train_all: true
+use_NAS: false
+use_dense: false
+warm_epoch: 0
