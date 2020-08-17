@@ -1,5 +1,5 @@
 ### 特征提取网络
-基于https://github.com/layumi/Person_reID_baseline_pytorch修改  
+基于https://github.com/layumi/Person_reID_baseline_pytorch 修改  
 网络代码：  
 ./v1/Person_reID_pytorch
 ### 分类数据集
