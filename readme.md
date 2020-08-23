@@ -1,3 +1,9 @@
+#### 网络结构
+backbone-Resnet50
+output-751
+no tirck
+
+
 ### 特征提取网络
 基于https://github.com/layumi/Person_reID_baseline_pytorch 修改  
 网络代码：  
