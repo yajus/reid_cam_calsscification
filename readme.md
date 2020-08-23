@@ -1,7 +1,7 @@
 #### 网络结构
-backbone-Resnet50
-output-751
-no tirck
+backbone-Resnet50  
+output-751  
+no tirck  
 
 
 ### 特征提取网络
